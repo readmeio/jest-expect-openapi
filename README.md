@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> `jest-expect-openapi` has moved! The source for this library now lives at https://github.com/readmeio/oas.
+> 
 # jest-expect-openapi
 
 A [Jest](https://jestjs.io/) custom matcher for asserting valid [OpenAPI](https://en.wikipedia.org/wiki/OpenAPI_Specification) definitions. Also supports [Vitest](https://vitest.dev/).
